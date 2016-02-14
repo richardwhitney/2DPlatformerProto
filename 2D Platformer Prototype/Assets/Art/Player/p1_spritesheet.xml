@@ -1,0 +1,18 @@
+<TextureAtlas imagePath="sheet.png">
+	<SubTexture name="player duck" x="365" y="98" width="69" height="71"/>
+	<SubTexture name="player front" x="0" y="196" width="66" height="92"/>
+	<SubTexture name="player hurt" x="438" y="0" width="69" height="92"/>
+	<SubTexture name="player jump" x="438" y="93" width="67" height="94"/>
+	<SubTexture name="player stand" x="67" y="196" width="66" height="92"/>
+	<SubTexture name="player walk01" x="0" y="0" width="72" height="97"/>
+	<SubTexture name="player walk02" x="73" y="0" width="72" height="97"/>
+	<SubTexture name="player walk03" x="146" y="0" width="72" height="97"/>
+	<SubTexture name="player walk04" x="0" y="98" width="72" height="97"/>
+	<SubTexture name="player walk05" x="73" y="98" width="72" height="97"/>
+	<SubTexture name="player walk06" x="146" y="98" width="72" height="97"/>
+	<SubTexture name="player walk07" x="219" y="0" width="72" height="97"/>
+	<SubTexture name="player walk08" x="292" y="0" width="72" height="97"/>
+	<SubTexture name="player walk09" x="219" y="98" width="72" height="97"/>
+	<SubTexture name="player walk010" x="365" y="0" width="72" height="97"/>
+	<SubTexture name="player walk011" x="292" y="98" width="72" height="97"/>
+</TextureAtlas>

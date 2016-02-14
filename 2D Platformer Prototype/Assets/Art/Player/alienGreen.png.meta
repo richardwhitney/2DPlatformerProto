@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: ec9a828afe4684806854bf43761e9914
+timeCreated: 1445020168
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: alienGreen.png
+    21300002: alienGreen_climb1.png
+    21300004: alienGreen_climb2.png
+    21300006: alienGreen_duck.png
+    21300008: alienGreen_hurt.png
+    21300010: alienGreen_jump.png
+    21300012: alienGreen_stand.png
+    21300014: alienGreen_swim1.png
+    21300016: alienGreen_swim2.png
+    21300018: alienGreen_walk1.png
+    21300020: alienGreen_walk2.png
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: alienGreen.png
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 328
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_climb1.png
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 420
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_climb2.png
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 41
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_duck.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 61
+        width: 69
+        height: 71
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_hurt.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 69
+        height: 92
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_jump.png
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 133
+        width: 67
+        height: 93
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_stand.png
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 41
+        width: 66
+        height: 92
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_swim1.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 69
+        height: 95
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_swim2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 70
+        height: 97
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_walk1.png
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 226
+        width: 68
+        height: 93
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: alienGreen_walk2.png
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 70
+        height: 96
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
